@@ -10,3 +10,7 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+
+### Docker build
+
+docker build -t ccdprediction:letest .
